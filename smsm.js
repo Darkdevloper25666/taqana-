@@ -124,7 +124,7 @@ const smsm120 = new Discord.Client();
 
 ///////////////////
 smsm.on("ready", () => {
-    var join = smsm.channels.get("876852169666613258"); /// id voice
+    var join = smsm.channels.get("912656055916462130"); /// id voice
     if (join) join.join();
   });
 ///////////////////
@@ -2935,7 +2935,7 @@ smsm120.on("ready", () => {
 
 //////////////// token lera dabne/////////
 
-smsm.login("tokin");
+smsm.login("OTE1NzUyMTgwMDg5MjQ1NzA2.YagL9w.EERMdqKLnUw3TEjqtgZ2v65T51M");
 smsm2.login("");
 smsm3.login("");
 smsm4.login("");
